@@ -1,0 +1,34 @@
+C:\Users\Ghelonico\source\repos\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\bin\Debug\net6.0\ITMonitoring.EntityFramework.deps.json
+C:\Users\Ghelonico\source\repos\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\bin\Debug\net6.0\ITMonitoring.EntityFramework.runtimeconfig.json
+C:\Users\Ghelonico\source\repos\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\bin\Debug\net6.0\ITMonitoring.EntityFramework.dll
+C:\Users\Ghelonico\source\repos\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\bin\Debug\net6.0\ITMonitoring.EntityFramework.pdb
+C:\Users\Ghelonico\source\repos\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\bin\Debug\net6.0\ITMonitoring.Domain.dll
+C:\Users\Ghelonico\source\repos\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\bin\Debug\net6.0\ITMonitoring.Domain.pdb
+C:\Users\Ghelonico\source\repos\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ITMonitoring.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\Ghelonico\source\repos\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ITMonitoring.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghelonico\source\repos\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ITMonitoring.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\Ghelonico\source\repos\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ITMonitoring.EntityFramework.AssemblyInfo.cs
+C:\Users\Ghelonico\source\repos\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ITMonitoring.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Ghelonico\source\repos\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ITMonitoring.EntityFramework.csproj.CopyComplete
+C:\Users\Ghelonico\source\repos\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ITMonitoring.EntityFramework.dll
+C:\Users\Ghelonico\source\repos\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\refint\ITMonitoring.EntityFramework.dll
+C:\Users\Ghelonico\source\repos\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ITMonitoring.EntityFramework.pdb
+C:\Users\Ghelonico\source\repos\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ITMonitoring.EntityFramework.genruntimeconfig.cache
+C:\Users\Ghelonico\source\repos\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ref\ITMonitoring.EntityFramework.dll
+D:\2. Working Projects\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\bin\Debug\net6.0\ITMonitoring.EntityFramework.deps.json
+D:\2. Working Projects\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\bin\Debug\net6.0\ITMonitoring.EntityFramework.runtimeconfig.json
+D:\2. Working Projects\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\bin\Debug\net6.0\ITMonitoring.EntityFramework.dll
+D:\2. Working Projects\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\bin\Debug\net6.0\ITMonitoring.EntityFramework.pdb
+D:\2. Working Projects\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\bin\Debug\net6.0\ITMonitoring.Domain.dll
+D:\2. Working Projects\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\bin\Debug\net6.0\ITMonitoring.Domain.pdb
+D:\2. Working Projects\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ITMonitoring.EntityFramework.csproj.AssemblyReference.cache
+D:\2. Working Projects\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ITMonitoring.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Working Projects\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ITMonitoring.EntityFramework.AssemblyInfoInputs.cache
+D:\2. Working Projects\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ITMonitoring.EntityFramework.AssemblyInfo.cs
+D:\2. Working Projects\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ITMonitoring.EntityFramework.csproj.CoreCompileInputs.cache
+D:\2. Working Projects\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ITMonitoring.EntityFramework.csproj.CopyComplete
+D:\2. Working Projects\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ITMonitoring.EntityFramework.dll
+D:\2. Working Projects\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\refint\ITMonitoring.EntityFramework.dll
+D:\2. Working Projects\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ITMonitoring.EntityFramework.pdb
+D:\2. Working Projects\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ITMonitoring.EntityFramework.genruntimeconfig.cache
+D:\2. Working Projects\IT-MONITORING-SYSTEM-v2\ITMonitoring.EntityFramework\obj\Debug\net6.0\ref\ITMonitoring.EntityFramework.dll
